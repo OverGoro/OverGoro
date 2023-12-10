@@ -1,1 +1,0 @@
-pr-price ../../func_tests/data/pos_10_in.txt 
