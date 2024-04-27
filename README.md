@@ -3,15 +3,15 @@
 ![](https://komarev.com/ghpvc/?username=OverGoro&color=blue)
 ### :hammer_and_wrench:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-</div>
+<img src="https://deviconapi.vercel.app/c?size=40"/>
+<img src="https://deviconapi.vercel.app/cplusplus?size=40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" height=40/>
+<img src="https://deviconapi.vercel.app/python?size=40"/>
+<img src="https://deviconapi.vercel.app/jupyter?version=plain-wordmark&size=40"/>
+<img src="https://deviconapi.vercel.app/bash?size=40"/>
+<img src="https://deviconapi.vercel.app/arduino?size=40"/>
+<img src="https://deviconapi.vercel.app/vim?size=40"/>
+<img src="https://deviconapi.vercel.app/?size=40"/>
 
 ### Stats :computer::        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverGoro&show_icons=true&theme=transparent-dark)
