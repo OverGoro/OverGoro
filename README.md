@@ -1,8 +1,8 @@
 ## **Юра**
 Студент ИУ-7 МГТУ им. Н.Э. Баумана
 ![](https://komarev.com/ghpvc/?username=OverGoro&color=blue)
-## :hammer_and_wrench:
 
+## :hammer_and_wrench:
 <div>
 <img src="https://deviconapi.vercel.app/c?size=40"/>
 <img src="https://deviconapi.vercel.app/cplusplus?size=40"/>
